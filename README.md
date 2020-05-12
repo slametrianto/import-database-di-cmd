@@ -3,5 +3,5 @@
 cd\
 cd xampp\mysql\bin
 mysql -u root -p
-use sioap
-source d:\siopak.sql
+use nama_database
+source d:\nama_database.sql
